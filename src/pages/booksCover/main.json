@@ -1,0 +1,16 @@
+{
+    "navigationBarTitleText": "书籍详情",
+    "usingComponents": {
+        "van-button": "/static/vant/button/index",
+        "van-dialog": "/static/vant/dialog/index",
+        "van-tabbar": "/static/vant/tabbar/index",
+        "van-tabbar-item": "/static/vant/tabbar-item/index",
+        "van-search": "/static/vant/search/index",
+        "van-tab": "/static/vant/tab/index",
+        "van-tabs": "/static/vant/tabs/index",
+        "van-icon": "/static/vant/icon/index",
+        "van-rate": "/static/vant/rate/index",
+        "van-slider": "/static/vant/slider/index",
+        "van-popup": "/static/vant/popup/index"
+    }
+}
